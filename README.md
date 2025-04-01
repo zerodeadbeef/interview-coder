@@ -2,7 +2,7 @@
 
 An invisible desktop application to help you pass your technical interviews, with full local AI support and optional cloud AI integration.
 
-https://github.com/user-attachments/assets/0615b110-2670-4b0e-bc69-3c32a2d8a996
+https://github.com/user-attachments/assets/45b48c4e-ea9c-432c-aa1a-5749614d705a
 
 ## Invisibility Compatibility
 
