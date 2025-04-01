@@ -2,6 +2,15 @@
 
 An invisible desktop application to help you pass your technical interviews, with full local AI support and optional cloud AI integration.
 
+## Known Issues
+
+There are still some issues to be fixed in upcoming releases:
+- Occasional connection interruptions with some local models
+- Limited support for certain image formats in screenshots
+- UI responsiveness issues with very large responses
+- save AI Settings
+
+
 https://github.com/user-attachments/assets/45b48c4e-ea9c-432c-aa1a-5749614d705a
 
 ## Invisibility Compatibility
@@ -293,13 +302,7 @@ You can customize the system prompt used for generating solutions:
 2. Edit the "System Prompt" field
 3. Click "Save Settings"
 
-## Known Issues
 
-There are still some issues to be fixed in upcoming releases:
-- Occasional connection interruptions with some local models
-- Limited support for certain image formats in screenshots
-- UI responsiveness issues with very large responses
-- save AI Settings
 
 ## Privacy
 
